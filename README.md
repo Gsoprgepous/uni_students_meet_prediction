@@ -21,6 +21,7 @@ Suggesting time intervals and areas with the *highest likelihood of student enco
   
 **Example Use Cases ✔🎇**
 
-~ The predicted data can be used by university/students themselves to optimize scheduling and improve student interactions
+~ The predicted data can be used by *university/students themselves* to **optimize scheduling** and **improve** student **interactions**
+
 ~ For students' personal purposes
 
