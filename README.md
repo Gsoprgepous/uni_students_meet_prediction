@@ -1,7 +1,9 @@
 ## Project: **Predicting student Meeting probabilities in University Building 🏫**
 
 ## Project Description
+
 **Objectives**
+
 Determining the probability of two students meeting in a building at *different time intervals and locations* (e.g., libraries, lecture halls, cafeterias, etc.).
 Suggesting time intervals and areas with the *highest likelihood of student encounters*
 
